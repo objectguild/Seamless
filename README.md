@@ -1,5 +1,8 @@
 # Seamless. Distributed object network.
-[![Build Status](https://travis-ci.org/pharo-ide/Seamless.svg?branch=master)](https://travis-ci.org/pharo-ide/Seamless)
+[![Build Status](https://github.com/objectguild/Seamless/workflows/Build/badge.svg)](https://github.com/objectguild/Seamless/actions?query=workflow%3ABuild)
+[![Pharo 9.0](https://img.shields.io/badge/Pharo-9.0-informational)](https://pharo.org)
+
+Fork of [original repository](https://github.com/pharo-ide/Seamless), with updated GitHub build.
 
 For details on Seamless design read [full documentation](https://github.com/SquareBracketAssociates/Booklet-Infrastructure).
 
